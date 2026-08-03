@@ -29,7 +29,7 @@ tire sensor, providing random but realistic values.
 You can choose to use stubs, mocks, or none at all. If you do, you are free to
 use the mocking tool that you prefer.
 
-> **Note**
+> [!NOTE]
 >
 > If you decide to use mocks, we recommend using the
 > [GMock](https://google.github.io/googletest/gmock_for_dummies.html)
